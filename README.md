@@ -19,7 +19,7 @@
 | Группа           | РПО/1                                   |
 | Дисциплина       | Git и GitHub                            |
 | Дата выполнения  | 17.06.2026                              |
-| Ссылка на GitHub | [https://github.com/username/repository]|
+| Ссылка на GitHub | https://github.com/skyblack94143-web/git_practice_gavrilov_rpo1.git|
 
 ## Цель работы
 
